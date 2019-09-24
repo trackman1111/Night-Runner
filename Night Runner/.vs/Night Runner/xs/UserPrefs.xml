@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{81AAA4A5-9DE8-D973-88FA-6BF271AF02DC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Movement.cs">
+    <Files>
+      <File FileName="Assets/Test.cs" Line="16" Column="9" />
+      <File FileName="Assets/Scenes/Movement.cs" Line="16" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Night Runner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Movement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdbd0660-b153-4e89-a0d1-ad6663544329" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
